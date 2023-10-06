@@ -6,7 +6,7 @@ A convolutional neural network (CNN) that detects your emotions through your web
 
 This project uses tensorflow to build and train a facial recognition CNN. The models achieve over 80% accuracy on the FER2013 dataset. Furthermore, the project uses open cv to test the model with the users webcam.
 
-![Example image of webcam viwer detecting emotion](/assets/HoldenSuprised.png "Holden Looking Suprised!")
+![Example image of webcam viwer detecting emotion](./assets/HoldenSurprised.png "Holden Looking Suprised!")
 
 ## Running build
 
