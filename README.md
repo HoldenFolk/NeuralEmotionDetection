@@ -10,7 +10,7 @@ This project uses tensorflow to build and train a facial recognition CNN. The mo
 
 ## Running build
 
-Run `pip install -r requirement.txt` to install dependencies for the project
+Run `pip install -r requirements.txt` to install dependencies for the project
 
 ### Training Model:
 
