@@ -3,7 +3,7 @@ import numpy as np
 import tensorflow as tf
 
 # Load the model
-model = tf.keras.models.load_model("./assets/emotion_model2.h5")
+model = tf.keras.models.load_model("./assets/emotion_model.h5")
 emotions = ["Angry", "Disgust", "Fear", "Happy", "Sad", "Surprise", "Neutral"]
 
 cap = cv2.VideoCapture(0)  # 0 for default camera

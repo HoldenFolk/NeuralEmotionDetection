@@ -10,4 +10,4 @@ x_train, y_train, x_val, y_val, x_test, y_test = getData.load_fer2013_data(fer20
 model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=20, batch_size=64)
 
 # Assuming you've trained the model
-model.save("./assets/emotion_model2.h5")
+model.save("./assets/emotion_model.h5")
